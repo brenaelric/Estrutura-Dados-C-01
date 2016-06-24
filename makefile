@@ -6,3 +6,5 @@ lista01main.o : lista01main.c
 
 clean :
 	rm *.o
+	
+all : lista01.exe
